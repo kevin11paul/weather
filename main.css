@@ -1,0 +1,21 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body
+{
+    background:blueviolet;
+}
+.container-fluid
+{
+    width: 400px;
+    margin: 60px auto;
+    padding:10px;
+}
+.inputs{
+    padding: 2rem 0 2rem 0;
+    text-align: center;
+    justify-content: center;
+    background: white;
+}
